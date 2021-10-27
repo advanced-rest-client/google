@@ -1,0 +1,8 @@
+.github/
+.vscode/
+coverage/
+demo/
+node_modules/
+test/
+custom-elements.json
+tsconfig.json
